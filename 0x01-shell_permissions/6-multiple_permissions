@@ -1,2 +1,2 @@
 #!/bin/bash
----x--xr--
+chown ug+x,o+r
